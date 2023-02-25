@@ -18,8 +18,9 @@
 
 
 ## Certifications
-| Name.        | Issuer.           | Expiration Date |
-|:-------------|:------------------|:------|
+
+| Name         | Issuer            | Expiration Date |
+|:-------------|:------------------|:----------------|
 | [Certified Associate in Project Management (CAPM)®](https://www.credly.com/badges/cfc0a3ec-6ce8-44eb-82d1-5e9d04c29fc3) | Project Management Institute (PMI) | Sept. 26, 2025 |
 | [HubSpot Inbound Certification](https://app.hubspot.com/academy/achievements/cnyqty4x/en/1/abigail-silin/inbound) | HubSpot Academy | March 23, 2024 |
 | [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/vrKhisnVT3ynIhbFYFPxCw) | Google Analytics Academy | July 17, 2023 |
