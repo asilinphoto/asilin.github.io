@@ -4,3 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-merlot
 
+site.github.zip_url
+github:
+  zip_url: http://aesilin.com/download.zip
+  another_url: http://aesilin.com
