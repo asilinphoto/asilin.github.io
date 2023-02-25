@@ -16,7 +16,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   padding: 0;
   margin: 0;
-  font: inherit;
+  font: raleway;
   font-size: 100%;
   vertical-align: baseline;
   border: 0;
@@ -45,7 +45,7 @@ table {
   border-collapse: collapse;
 }
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Raleway', Raleway, serif;
   font-size: 13px;
   line-height: 1.5;
   color: #000;
@@ -85,7 +85,7 @@ header h2 {
 
 code, pre {
   margin-bottom: 30px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-family: Raleway, "Raleway", "Raleway", Terminal;
   font-size: 12px;
   color: #222;
 }
