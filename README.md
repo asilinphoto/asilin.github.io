@@ -16,7 +16,7 @@
 #### [Research Operations Administrator](https://www.linkedin.com/in/asilinphoto/), Curebase
 
 ### Project Management
-*   All roles :smiley: :fire:
+*   All roles
 
 ### Operations 
 *   All roles 
