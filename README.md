@@ -11,9 +11,11 @@
 
 # Resume Highlights
 
-## Research Administration
+### Research Administration
 #### [Research Administrator](https://www.linkedin.com/in/asilinphoto/), Protocol Labs
+*  Specialized in research grants program management.
 #### [Research Operations Administrator](https://www.linkedin.com/in/asilinphoto/), Curebase
+*  Specialized in optimization, implementation, and reporting.
 
 ### Project Management
 *   All roles
@@ -29,12 +31,11 @@
           *    [Alchemy University](https://university.alchemy.com/)   
 
 ## Education, Publications
-*   B.A. Green Mountain College, 2013, cum laude
+*   B.A. Green Mountain College, cum laude
     *  Self-designed major; Art, Communication, and the Environment
     *  Cross country co-captain 
 *   Grants-related [blogs and announcements](https://research.protocol.ai/authors/abby-silin/)
 *   Podcasts and news updates with the [Burlington Free Press](https://muckrack.com/abigail-silin/articles)
-
 
 
 ## Certifications
@@ -46,3 +47,4 @@
 | [Introduction to Data Studio](https://analytics.google.com/analytics/academy/certificate/vrKhisnVT3ynIhbFYFPxCw) | Google Analytics Academy | July 17, 2023 |
 | [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/P9pb_8EhRvaCiPXramsEMw) | Google Analytics Academy | March 24, 2023 |
 | Learn Javascript [Certificate of Completion](https://www.codecademy.com/profiles/asilinphoto/certificates/705dcb15de0da4dd9d9fc4f3274b430e) | Codecademy | NA, issued Feb. 2, 2023 |
+
