@@ -1,3 +1,6 @@
+
+ 
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -39,18 +42,15 @@
         </section>
 
         <aside id="sidebar">
-          {% if PDF.show_downloads %}
-            <a href="{{ PDF.https://github.com/asilinphoto/asilin.github.io/blob/196f9d603327b724758d003b97b058c0ce7b85b0/_includes/Silin_Resume_2023_NC.pdf }}" class="button">
+          {% if site.show_downloads %}
+            <a href="{{ site.https://github.com/asilinphoto/asilin.github.io/blob/196f9d603327b724758d003b97b058c0ce7b85b0/_includes/Silin_Resume_2023_NC.pdf }}" class="button">
               <small>Download</small>
               Resume
             </a>
-          {% and %}
-          
-         {% if site.show_https://www.linkedin.com/in/asilinphoto/ %}
-          <a href="{{ site.linkedin }}" class="button">
-            LinkedIn
-          </a>
-        {% endif %}
+            <a href="{{ https://www.linkedin.com/in/asilinphoto/ }}" class="button">
+              LinkedIn
+            </a>
+          {% endif %}
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
