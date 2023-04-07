@@ -12,10 +12,10 @@
 # Resume Highlights
 
 ### Research Administration
-#### [Research Administrator](https://www.linkedin.com/in/asilinphoto/), Protocol Labs
-*  Specialized in research grants program management.
-#### [Research Operations Administrator](https://www.linkedin.com/in/asilinphoto/), Curebase
-*  Specialized in optimization, implementation, and reporting.
+*  [Research Administrator](https://www.linkedin.com/in/asilinphoto/), Protocol Labs
+   *  Specialized in research grants program management.
+* [Research Operations Administrator](https://www.linkedin.com/in/asilinphoto/), Curebase
+   *  Specialized in optimization, implementation, and reporting.
 
 ### Project Management
 *   All roles
